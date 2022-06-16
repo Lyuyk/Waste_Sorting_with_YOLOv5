@@ -1,1 +1,0 @@
-yolov5的模型就是这个文件，trian是训练 detect是检测
